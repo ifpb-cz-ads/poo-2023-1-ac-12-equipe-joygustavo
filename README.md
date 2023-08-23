@@ -26,3 +26,6 @@ Se mudarmos o nome do método para 'start', o programa não poderá ser executad
 ## Questão 7 
 
 Ocorre um erro na compilação. Isso porque Java é sensível a maiúsculas e minúsculas (CaseSensitive)
+
+## Questão 8:
+R: Se mudarmos o nome do método "main" para "start", o programa não poderá ser executado diretamente usando o comando "java MeuPrograma". Isso ocorre porque o método "main" é o ponto de entrada padrão para um programa Java e é usado pela JVM para iniciar a execução do programa.
